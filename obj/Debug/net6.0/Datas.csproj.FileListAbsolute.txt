@@ -1,0 +1,15 @@
+C:\Users\Daniele\Datas\bin\Debug\net6.0\Datas.exe
+C:\Users\Daniele\Datas\bin\Debug\net6.0\Datas.deps.json
+C:\Users\Daniele\Datas\bin\Debug\net6.0\Datas.runtimeconfig.json
+C:\Users\Daniele\Datas\bin\Debug\net6.0\Datas.dll
+C:\Users\Daniele\Datas\bin\Debug\net6.0\Datas.pdb
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.csproj.AssemblyReference.cache
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.AssemblyInfoInputs.cache
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.AssemblyInfo.cs
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.dll
+C:\Users\Daniele\Datas\obj\Debug\net6.0\refint\Datas.dll
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.pdb
+C:\Users\Daniele\Datas\obj\Debug\net6.0\Datas.genruntimeconfig.cache
+C:\Users\Daniele\Datas\obj\Debug\net6.0\ref\Datas.dll
